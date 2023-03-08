@@ -18,6 +18,8 @@ A rough tutorial on creating and hosting a personal website. This website will b
 
 ### Possible Topics
 
+#### Technical / Tooling
+
 - Command line commands.
 - Basic CSS
 - CSS Framework.
@@ -26,14 +28,15 @@ A rough tutorial on creating and hosting a personal website. This website will b
 - Deployment to GitHub Pages with Github Actions Workflow.
 - DevTools for basic debugging and live modification.
 - Cloudflare setup for a domain.
-- DNS.
 - GitHub Pages custom domain setup.
+
+#### Concepts
+
+- JSON.
+- Pagination.
+- Client Side Routing.
+- DNS.
 - Using / consuming / interacting with API.
-
-- JSON
-- Pagination
-
-- React Router (or roll our own router).
 
 ### Pages
 
@@ -59,7 +62,7 @@ Fetching repositories using GitHub API. Allow user to filter repositories by tag
 
 ### Technology Stack
 
-- Python 3.x
+- Python 3.10+
 - Starlette
 - [FastAPI](https://fastapi.tiangolo.com/)
 - SQLAlchemy
