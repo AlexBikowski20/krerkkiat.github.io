@@ -86,3 +86,22 @@ Fetching repositories using GitHub API. Allow user to filter repositories by tag
 - DNS (again with subdomain).
 - CORS.
 - Database / ORM.
+
+## Resources
+
+### Commit Message Convention
+
+- [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/) / [Angular Commit Guidelines](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)
+- Using emoji with commit message [cheatsheet](https://gitmoji.dev/).
+
+### Uncategorized resources
+
+- https://tailwindcss.com/docs/guides/vite
+- https://vitejs.dev/guide/
+- https://github.com/nvh95/vite-react-template-redux
+- https://github.com/tiangolo/full-stack-fastapi-postgresql/tree/master/%7B%7Bcookiecutter.project_slug%7D%7D/backend
+- https://fastapi.tiangolo.com/tutorial/sql-databases/?h=data#__tabbed_4_2
+- https://docs.github.com/en/rest/repos/repos?apiVersion=2022-11-28
+- https://redux.js.org/tutorials/essentials/part-5-async-logic#thunks-and-async-logic
+- https://github.com/axios/axios
+- https://reactrouter.com/en/main
